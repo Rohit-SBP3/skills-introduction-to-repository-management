@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Rohit-SBP3
+/src/backend/database.py      @Rohit-SBP3
+/src/backend/routers/auth.py  @Rohit-SBP3
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Rohit-SBP3
